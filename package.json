@@ -1,0 +1,9 @@
+{
+  "name": "rouret-claude-skill",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "package": "bun scripts/packageSkills.ts",
+    "validate": "claude plugin validate ."
+  }
+}

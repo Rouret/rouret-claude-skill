@@ -1,0 +1,14 @@
+{
+  "name": "rouret-skills",
+  "description": "Personal Claude skills by Lucas Rouret",
+  "owner": {
+    "name": "Lucas Rouret"
+  },
+  "plugins": [
+    {
+      "name": "rouret",
+      "source": "./plugins/rouret",
+      "description": "Hands-on everyday skills: Lean problem solving and more."
+    }
+  ]
+}
